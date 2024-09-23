@@ -1,0 +1,16 @@
+C:\Users\usuario\source\repos\ASSA\salida\ASSA.exe
+C:\Users\usuario\source\repos\ASSA\salida\appsettings.Development.json
+C:\Users\usuario\source\repos\ASSA\salida\appsettings.json
+C:\Users\usuario\source\repos\ASSA\salida\ASSA.dll
+C:\Users\usuario\source\repos\ASSA\salida\ASSA.runtimeconfig.json
+C:\Users\usuario\source\repos\ASSA\salida\ASSA.pdb
+C:\Users\usuario\source\repos\ASSA\salida\Microsoft.EntityFrameworkCore.dll
+C:\Users\usuario\source\repos\ASSA\salida\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\usuario\source\repos\ASSA\salida\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\usuario\source\repos\ASSA\salida\Microsoft.OpenApi.dll
+C:\Users\usuario\source\repos\ASSA\salida\Npgsql.dll
+C:\Users\usuario\source\repos\ASSA\salida\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\usuario\source\repos\ASSA\salida\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\usuario\source\repos\ASSA\salida\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\usuario\source\repos\ASSA\salida\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\usuario\source\repos\ASSA\salida\ASSA.deps.json
