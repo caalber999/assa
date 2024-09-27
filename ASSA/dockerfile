@@ -1,5 +1,5 @@
 # Dockerfile
-FROM mcr.microsoft.com/dotnet/sdk:9.0 AS aux
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS aux
 WORKDIR webapp
 EXPOSE 80
 
@@ -13,7 +13,7 @@ RUN dotnet publish -c Release -o salida
 
 #construimos imagen
 
-FROM mcr.microsoft.com/dotnet/sdk:9.0
+FROM mcr.microsoft.com/dotnet/sdk:8.0
 WORKDIR webapp
 COPY --from=aux /webapp/salida .
 ENTRYPOINT ["dotnet", "ASSA.dll"]
